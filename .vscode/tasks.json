@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"command": "live-server.cmd",
+			"args": [
+				"--port=8080"
+			],
+			"label": "start live server",
+			"problemMatcher": []
+		}
+	]
+}
